@@ -119,12 +119,12 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "CalibreC/calibrec.github.io" # <gh-username>/<repo>
-    repo_id: "R_kgDOOuYc6g"
-    category: "Announcements"
-    category_id: "DIC_kwDOOuYc6s4Cqfsu"
+    repo: CalibreC/calibrec.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOOuYc6g
+    category: Announcements
+    category_id: DIC_kwDOOuYc6s4Cqfsu
     mapping: # optional, default to 'pathname'
-    strict: '1' # optional, default to '0'
+    strict: 1 # optional, default to '0'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
