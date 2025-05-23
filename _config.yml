@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: CalibreC的博客 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 精骛八极 心游万仞 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: CalibreC
+  email: fd98shadow@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/favicons/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -224,3 +224,19 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jemoji
+  - jekyll-compose
+#   - jekyll-paginate
+
+# Enable safe mode
+safe: false
+
+# Whitelist plugins under safe mode.
+# Note that `some-other-jekyll-plugin` is not listed here. Therefore,
+# it will not be loaded under safe mode.
+whitelist:
+  - jemoji
+  - jekyll-compose
+  # - jekyll-paginate
