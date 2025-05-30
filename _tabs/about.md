@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Nothing is impossible, the impossible just takes longer.
+> Aspire to be like the sun.
 {: .prompt-tip }
