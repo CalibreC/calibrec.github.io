@@ -4,7 +4,7 @@ title: IGN《黑神话：悟空》Review
 categories: [杂项, 游戏]
 tags: [黑神话：悟空, IGN, Review]
 date: 2025-05-24 00:28 +0800
-description: 感情与权力的关系？感情 + 支配 = 宠物
+description: IGN《黑神话：悟空》Review
 ---
 ## Black Myth: Wukong Review
 
