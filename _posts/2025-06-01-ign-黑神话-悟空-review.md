@@ -1,9 +1,7 @@
 ---
 layout: post
 title: IGN《黑神话：悟空》Review
-categories:
-- 杂项
-- 游戏
+categories: [杂项, 游戏]
 tags:
 - 黑神话：悟空
 - IGN
