@@ -1,9 +1,9 @@
 ---
 layout: post
 title: IGN《黑神话：悟空》Review
+date: 2025-05-24 00:28 +0800
 categories: [杂项, 游戏]
 tags: [黑神话：悟空, IGN, Review]
-date: 2025-05-24 00:28 +0800
 description: IGN《黑神话：悟空》Review
 ---
 ## Black Myth: Wukong Review
