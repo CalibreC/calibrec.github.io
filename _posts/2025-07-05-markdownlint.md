@@ -4,7 +4,7 @@ title: markdownlint配置
 date: 2025-07-05 11:17 +0800
 categories: [杂项, 软件]
 tags: [配置, Markdown]
-description: 
+description: markdown配置
 ---
 
 参考
