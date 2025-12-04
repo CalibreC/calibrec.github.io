@@ -1,1 +1,1 @@
-bundler exec jekyll serve --livereload
+bundler exec jekyll serve --livereload --port 50000
